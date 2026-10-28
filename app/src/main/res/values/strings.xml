@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Social Detox</string>
+    <string name="a11y_desc">Controlla quale app è in primo piano (non legge il contenuto delle app) per chiedere conferma prima di aprire un social, mostrare il cronometro e tenere il report delle sessioni.</string>
+</resources>
